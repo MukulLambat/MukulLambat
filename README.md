@@ -4,6 +4,11 @@
 
 Hello Welcome to my GitHub! !  I specialize in **machine learning**, **deep learning**, and **AI research**, focusing on cutting-edge advancements in **Data science**. My focus lies in developing AI-driven solutions, unraveling patterns in data, and optimizing intelligent systems, currently exploring **data science, data engineering, and analytics** roles.
 
+## 👨‍💻 Professional Experience
+- **Student Research Assistaant** at University of Siegen
+- **Master's Thesis** at DLR Institute of Vehicle Concept 
+- **Data Science Intern** at DLR Institute of Vehicle Concept
+ 
 ## 🎓 Academic Background
 - **M.Sc. in Mechatronics** (Specialization in Artificial Intelligence)
 - **B.Tech. in Mechanical Engineering**
